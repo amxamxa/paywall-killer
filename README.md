@@ -30,7 +30,6 @@ https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-sch
 """
 ```
 
-
 ### Vergleich
 
 | MODEL| ki-provider| Ergebnis?|
@@ -39,20 +38,16 @@ https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-sch
 |Llama-3-70b-Groq|poe.com|gut|
 |Gemini-1.5-Flash|poe.com|nicht gut|
 
-
-
-
-
-​###￼ ANLAGE
-#### Beispiele zu den Ergebnisse:
+​####￼ ANLAGE
 ##### .. ein gutes Beispiel mit `Claude-3-Sonnet` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/915addb4-5960-4cf9-937b-6eb414f15bef)
 
-##### .. ein gutes Beispiel mit `Web-Search` auf https://poe.com
+###### .. ein gutes Beispiel mit `Web-Search` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/db9ddc92-f966-46fb-b2a2-e8f67fb3693b)
 
-##### .. ein gutes Beispiel mit `pi.ai` auf auf https://pi.ai
+###### .. ein gutes Beispiel mit `pi.ai` auf auf https://pi.ai
 ![image](https://github.com/user-attachments/assets/9459e3aa-c2d3-45f1-a938-e48284caf7b4)
+
 
 
 
