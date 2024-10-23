@@ -1,8 +1,10 @@
-# my 'paywall-killer'
+#ki #ai #prompt #engineering #paywall #paywel #artikel #news #newspaper
+
+# my `paywall`-killer
 Hier gibt es meinen **Prompt zur Freischaltung** von 99% aller Paywalls!
 
 ### Voraussetzung:
-**KI-Bot mit 'html'-Schnittstelle**, wie auf:
+**KI-Bot mit `html`-Schnittstelle**, wie auf:
 - https://poe.com/
 - https://pp.ai
 
@@ -37,8 +39,10 @@ https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-sch
 |tba|pi.ai|sehr gut|
 |Llama-3-70b-Groq|poe.com|gut|
 |Gemini-1.5-Flash|poe.com|nicht gut|
+| | | |
 
-​####￼ ANLAGE
+
+​####￼Anlage
 ##### .. ein gutes Beispiel mit `Claude-3-Sonnet` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/915addb4-5960-4cf9-937b-6eb414f15bef)
 
