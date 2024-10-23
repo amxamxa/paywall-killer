@@ -43,7 +43,7 @@ https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-sch
 
 
 
-​###￼ANLAGE
+​###￼ ANLAGE
 #### Beispiele zu den Ergebnisse:
 ##### .. ein gutes Beispiel mit `Claude-3-Sonnet` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/915addb4-5960-4cf9-937b-6eb414f15bef)
