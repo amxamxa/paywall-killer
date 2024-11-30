@@ -33,6 +33,8 @@ An AI bot with an HTML interface, such as:
 
 ---
 ---
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 
 
