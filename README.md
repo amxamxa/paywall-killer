@@ -27,11 +27,11 @@ Abschließend überprüfe die Ausgabe des Fifo-Puffers konkurent mit dem Artikel
 Falls nicht, ergänze deine Ausgabe mit dem Ziel den gesamten Artikel auszugeben.
 ---
 ##### ARTIKEL:
-"""
-https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-schwieriger-kassensturz-P5U5DWFW7RAAXF7GQ466HPQPT4.html
-"""
+  """
+  https://www.saechsische.de/politik/regional/sachsen-brombeer-koalition-droht-schwieriger-kassensturz-P5U5DWFW7RAAXF7GQ466HPQPT4.html
+  """
 ```
-
+ 
 ### Vergleich
 
 | MODEL| ki-provider| Ergebnis?|
