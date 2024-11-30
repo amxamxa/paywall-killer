@@ -1,8 +1,9 @@
 #ki #ai #prompt #engineering #paywall #paywel #artikel #news #newspaper
-# 
-`#0969DA` mxx-paywall-killer prompt
+
+# mxx-paywall-killer prompt
+Link to text in german language: [Link](# ... in deutscher Sprache).
+
 ## englisch language
-`#0969DA`sdf
 > [!TIP]
 > Here is my prompt for unlocking 92,25% of all paywalls!
 > For prompting articles better and/or more easily.
@@ -37,13 +38,11 @@ An AI bot with an HTML interface, such as:
 ---
 ---
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
 
 ## ... in deutscher Sprache
 # my `paywall`-killer
-Hier gibt es meinen **Prompt zur Freischaltung** von 99% aller Paywalls!
+> [!TIP]
+> Hier gibt es meinen **Prompt zur Freischaltung** von 92,5% aller Paywalls!
 
 ### Voraussetzung:
 **KI-Bot mit `html`-Schnittstelle**, wie auf:
