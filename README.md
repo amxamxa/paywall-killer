@@ -33,6 +33,13 @@ An AI bot with an HTML interface, such as:
 - [https://poe.com/](https://poe.com/)  
 - [https://pp.ai](https://pp.ai)
 
+# Example
+# .. with `pi.ai
+![image](https://github.com/user-attachments/assets/9adcd23f-788c-41ef-9e30-f3000326cc93)
+... shortend
+![image](https://github.com/user-attachments/assets/f944bfb7-0aa6-468c-bb46-ef036be71ab7)
+
+
 ---
 ---
 
@@ -91,14 +98,14 @@ Falls nicht, ergänze deine Ausgabe mit dem Ziel den gesamten Artikel auszugeben
 | | | |
 
 
-​####￼ Anlage
-##### .. ein gutes Beispiel mit `Claude-3-Sonnet` auf https://poe.com
+​#￼ Beispiele
+### .. ein gutes Beispiel mit `Claude-3-Sonnet` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/915addb4-5960-4cf9-937b-6eb414f15bef)
 
-###### .. ein gutes Beispiel mit `Web-Search` auf https://poe.com
+### .. ein gutes Beispiel mit `Web-Search` auf https://poe.com
 ![image](https://github.com/user-attachments/assets/db9ddc92-f966-46fb-b2a2-e8f67fb3693b)
 
-###### .. ein gutes Beispiel mit `pi.ai` auf auf https://pi.ai
+### .. ein gutes Beispiel mit `pi.ai` auf auf https://pi.ai
 ![image](https://github.com/user-attachments/assets/9459e3aa-c2d3-45f1-a938-e48284caf7b4)
 
 
