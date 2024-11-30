@@ -2,8 +2,11 @@
 # 
 `#0969DA` mxx-paywall-killer prompt
 ## englisch language
-`#0969DA`
-`Here is my prompt for unlocking 92,25% of all paywalls!`
+`#0969DA`sdf
+> [!TIP]
+> Here is my prompt for unlocking 92,25% of all paywalls!
+> For prompting articles better and/or more easily.
+
 ### prompt
 ---
 
@@ -33,9 +36,9 @@ An AI bot with an HTML interface, such as:
 
 ---
 ---
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
-
 
 
 ## ... in deutscher Sprache
