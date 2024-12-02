@@ -1,8 +1,5 @@
 #ki #ai #prompt #engineering #paywall #paywel #artikel #news #newspaper
 
-# mxx-paywall-killer-prompt
-Link to text in german language: [Link](# ... in deutscher Sprache).
-
 ## englisch language
 > [!IMPORTANT]
 > Here is my prompt for unlocking 92,25% of all paywalls!
