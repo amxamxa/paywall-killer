@@ -1,5 +1,3 @@
-#ki #ai #prompt #engineering #paywall #paywel #artikel #news #newspaper
-
 ## englisch language
 > [!IMPORTANT]
 > Here is my prompt for unlocking 92,25% of all paywalls!
